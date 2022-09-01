@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("你是人间的四月天");
 
         System.out.println("今夜月色很美");
+        System.out.println("听党话,跟党走");
     }
 }
